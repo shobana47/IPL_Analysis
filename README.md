@@ -48,7 +48,7 @@ Interactive graphs and heatmaps for insights.
 
 Clone the repository:
 
-git clone https://github.com/your-username/ipl-analysis.git
+git clone https://github.com/shobana47/IPL_Analysis
 
 Navigate to the project directory:
 
